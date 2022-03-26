@@ -14,6 +14,8 @@
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barreto-5126a5136/)
+<a href = "mailto: rochaa.vinicius@outlook.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
  ### Languages and tools
    <div>
@@ -30,6 +32,6 @@
 
 <div align="center">
   <a href="https://github.com/amandacbarreto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacbarreto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacbarreto&layout=compact&langs_count=7&theme=bear"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandacbarreto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacbarreto&layout=compact&langs_count=7&theme=bear"/>
 </div>
