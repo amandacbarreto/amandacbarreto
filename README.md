@@ -4,13 +4,12 @@
 
 ### About me
 
-```ruby
 - Computer Sciences student at Estácio de Sá
 - Civil Engineer in Career Transition
 - Currently Learning about Front-end development
 - Looking for internships
 - #OpenToWork and #OpenToFriends
-```
+
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barreto-5126a5136/)
