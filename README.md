@@ -1,5 +1,5 @@
 ### <h1>Hello, World! I'm Amanda Barreto 👋</h1>
-
+<div display:"flex">
 <img align="right" alt="Cat gif" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif">
 
 ### About me
@@ -26,6 +26,8 @@
   <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
   </div> 
+
+</div>
 
 ## Github Stats 
 
