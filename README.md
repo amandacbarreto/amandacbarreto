@@ -1,5 +1,5 @@
 ### <h1>Hello, World! I'm Amanda Barreto 👋</h1>
-<div display:"flex">
+<div display="flex">
 <img align="right" alt="Cat gif" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif">
 
 ### About me
@@ -31,7 +31,7 @@
 
 ## Github Stats 
 
-<div align="center">
+<div align="center" display="flex">
   <a href="https://github.com/amandacbarreto">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandacbarreto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacbarreto&layout=compact&langs_count=7&theme=bear"/>
