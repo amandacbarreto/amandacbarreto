@@ -1,15 +1,15 @@
 ### <h1>Hello, World! I'm Amanda Barreto 👋</h1>
 
-<img align="right" width=50% alt="Cat gif" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif">
+<img align="right" alt="Cat gif" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif">
 
 ### About me
-
+```ruby
 - Computer Sciences student at Estácio de Sá
 - Civil Engineer in Career Transition
 - Currently Learning about Front-end development
 - Looking for internships
 - #OpenToWork and #OpenToFriends
-
+```
 ### Contact me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-barreto-5126a5136/)
