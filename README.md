@@ -23,6 +23,7 @@
     <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Vue" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/512px-Vue.js_Logo_2.svg.png?20170919082558">
+    <img align="center" alt="Django" height="30" width="40" src="https://seeklogo.com/images/D/django-logo-4C5ECF7036-seeklogo.com.png">
   <img align="center" alt="Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg">
   </div> 
@@ -33,6 +34,6 @@
 
 <div align="center" display="flex">
   <a href="https://github.com/amandacbarreto">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=amandacbarreto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacbarreto&layout=compact&langs_count=7&theme=bear"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=amandacbarreto&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandacbarreto&layout=compact&langs_count=7&theme=bear"/>
 </div>
